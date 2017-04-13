@@ -1,2 +1,0 @@
-# jossh
-newbie
